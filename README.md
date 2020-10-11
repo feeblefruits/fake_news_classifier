@@ -29,9 +29,13 @@ Upon expansion of this project, data from [Fake News Corpus](https://github.com/
 For purposes of this project, 130,443 titles labeled "reliable" and "fake" were extracted and used to further train and test the model.
 
 # Results
-The final model has a weighted average F₁ score of 87% using the Covid-19 misinformation dataset. The same model parameters are used to train on Fake News Corpus article titles which exceed 100,000 and scores 97%.
+The final model has a weighted average F₁ score of 87% using the Covid-19 misinformation dataset.
 
+![Image of Covid-19 Confusion Matrix](https://github.com/feeblefruits/fake_news_classifier/blob/main/assets/covid_confusion.png)
 
+The same model parameters are used to train on Fake News Corpus article titles which exceed 100,000 and scores 97%.
+
+![Image of Fake News Corpus Confusion Matrix](https://github.com/feeblefruits/fake_news_classifier/blob/main/assets/fakenews_corpus_confusion.png)
 
 ## Files
 

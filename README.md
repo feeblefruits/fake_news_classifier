@@ -6,6 +6,8 @@ Fake news classifier including exploration analysis and NLP techniques 🎯
 As part of the Udacity Nanodegree capstone project, the following analysis attempts to distinguish between news headlines that are real and those that are fake.
 This post details insights following data exploration as well as the NLP pipeline setup using custom transformers along with hyperparameter tuning using grid search.
 
+Medium post of this project can be found [here](https://medium.com/@plan__b/auto-fake-news-classifier-using-headlines-86c98fa5ab6e).
+
 # Problem statement
 Even though disinformation often disguises itself as legitimate information, the assumption of this project is that there are defining stylistic features (such as the use of capitalisation and pronouns) that can be used to distinguish the two types of content.
 

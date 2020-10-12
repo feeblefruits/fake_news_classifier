@@ -37,6 +37,8 @@ The same model parameters are used to train on Fake News Corpus article titles w
 
 ![Image of Fake News Corpus Confusion Matrix](https://github.com/feeblefruits/fake_news_classifier/blob/main/assets/fakenews_corpus_confusion.png)
 
+Upon normalising the dataset, however, a weighted average of 85% is achieved.
+
 ## Files
 
 Files included in this project are as follows:

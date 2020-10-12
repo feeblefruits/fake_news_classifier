@@ -35,7 +35,7 @@ The final model has a weighted average F₁ score of 86% using the Covid-19 misi
 
 The same model parameters are used to train on Fake News Corpus article titles which exceed 100,000 and scores 97%.
 
-![Image of Fake News Corpus Confusion Matrix](https://github.com/feeblefruits/fake_news_classifier/blob/main/assets/fakenews_corpus_confusion.png)
+![Image of Fake News Corpus Confusion Matrix](https://github.com/feeblefruits/fake_news_classifier/blob/main/assets/fake_news_corpus_confusion.png)
 
 Upon normalising the dataset, however, a weighted average of 85% is achieved.
 
